@@ -87,23 +87,3 @@ python test_model.py
 
 ---
 
-
-### Folder structure
-
->```images/```             &nbsp; - &nbsp; the folder with the dataset <br/>
->```images_feature/```      &nbsp; - &nbsp; the folder with HOG features <br/>
->```results/```        &nbsp; - &nbsp; visual results for the training and validation accuracy <br/>
-
->```get_image_feature.py```     &nbsp; - &nbsp; extract the HOG feature from the dataset <br/>
->```model.py```         &nbsp; - &nbsp; peceptron implementation <br/>
->```train_model.py```    &nbsp; - &nbsp; implementation of the training procedure <br/>
->```test_model.py```     &nbsp; - &nbsp; applying the trained model to testing accuracy <br/>
->```model_pretrained.npy```     &nbsp; - &nbsp; pretrained model weight <br/>
->```train.txt```    &nbsp; - &nbsp; Training file name and label <br/>
->```val.txt```     &nbsp; - &nbsp; validation file name and label <br/>```test.txt```     &nbsp; - &nbsp; testing file name and label <br/>
-
-[[back]](#contents)
-<br/>
-
----
-
