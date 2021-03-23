@@ -7,8 +7,8 @@ This is the first homework in the deep learning course. It need to use hand-craf
 ### Contents:
 - [Overview](#overview)
 - [Prerequisites](#Prerequisites)
-- [Folder structure ](#Folder structure)
-- [Dataset and preprocessing](#Dataset and preprocessing)
+- [Folder structure](#Folderstructure)
+- [Dataset and preprocessing](#Datasetandpreprocessing)
 - [Training](#Training)
 - [Test](#Testing)
 
