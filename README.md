@@ -46,7 +46,7 @@ This is the first homework in the deep learning course. It need to use hand-craf
 ---
 ### Dataset and preprocessing
 
-- Download the mini-imagenet dataset and put it into `images/` folder.     
+- Download the [mini-imagenet](https://drive.google.com/open?id=1kwYYWL67O0Dcbx3dvZIfbGg9NiHdyisr "Title") dataset and put it into `images/` folder.     
 - Use the following command to extract image features, the feature array will put into `images_feature/` folder.
 
 ```bash
